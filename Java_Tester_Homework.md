@@ -1,0 +1,15 @@
+## Домашние работы по курсу Java для тестировщиков
+  1.  ["Введение в Java" 1](https://github.com/KseniyaChepelevich/Money-Transfer) и [2](https://github.com/KseniyaChepelevich/Credit-Card-Number-Validator),  
+  1.  ["Примитивные типы данных, условные операторы, выход за границы типов и погрешность вычислений" 1](https://github.com/KseniyaChepelevich/Miles.git) и [2](https://github.com/KseniyaChepelevich/Get-one-ruble-for-every-100.git),  
+  1.  ["Testability, авто-тесты, введение в ООП: объекты и методы" 1](https://github.com/KseniyaChepelevich/New-Miles.git), [2](https://github.com/KseniyaChepelevich/Body-mass-index.git) и [3](https://github.com/KseniyaChepelevich/Loan-calculator.git),  
+  1.  ["Система сборки Maven, управление зависимостями, авто-тесты на JUnit5" 1](https://github.com/KseniyaChepelevich/bonus-calc-test1.git) и [2](https://github.com/KseniyaChepelevich/bonus-service.git),  
+  1.  ["Циклы, параметризованные тесты и аннотации (часть 1)"](https://github.com/KseniyaChepelevich/SQRService.git),  
+  1.  ["Циклы, параметризованные тесты и аннотации (часть 2)" 1](https://github.com/KseniyaChepelevich/Statistic-Service.git) и [2](https://github.com/KseniyaChepelevich/Bonus.git),  
+  1.  ["Выстраивание процесса непрерывной интеграции (CI): Github Actions. Покрытие кода с JaCoCo, статический анализ кода: CheckStyle, SpotBugs" 1](https://github.com/KseniyaChepelevich/Check-Style.git) и [2](https://github.com/KseniyaChepelevich/Stop-bugs.git),  
+  1.  ["Объектно-ориентированное программирование и проектирование"](https://github.com/KseniyaChepelevich/Radioman.git),  
+  1.  ["Объектно-ориентированное программирование: ключевые принципы"](https://github.com/KseniyaChepelevich/Vk.git),  
+  1.  ["Композиция и зависимость объектов. Mockito при создании авто-тестов"](https://github.com/KseniyaChepelevich/Poster-manager.git),  
+  1.  ["Наследование и расширяемость систем. Проблемы наследования"](https://github.com/KseniyaChepelevich/Product-new.git),  
+  1.  ["Исключительные ситуации и их обработка. Тестирование исключений"](https://github.com/KseniyaChepelevich/ProductManager2.git),  
+  1.  ["Интерфейсы для организации малой связности. Обобщённое программирование (Generics)"](https://github.com/KseniyaChepelevich/Ticket-search.git),  
+  1.  ["Collections Framework. CRUD и тестирование систем, управляющих набором объектов"](https://github.com/KseniyaChepelevich/Issues.git).
