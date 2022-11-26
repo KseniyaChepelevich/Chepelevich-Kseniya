@@ -2,37 +2,15 @@
 Я **Ксения Чепелевич** Инженер по тестированию ПО.
 
 ## Вот что я умею
-* __Введение в тестирование. [Домашние работы по курсу "Введение в тестирование"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_the_course_Introduction_to_Testing.md). 
+* __Введение в тестирование. [Домашние работы по курсу "Введение в тестирование"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_the_course_Introduction_to_Testing.md).__ 
 
   
-* [Курсовой проект к модулю ручное тестирование веб-приложений](https://docs.google.com/document/d/1pOtzILhWQmmu8U28rY-2aazheYXkDWrpZtsamq9uwgk/edit?usp=sharing).
-* __Java. Домашние работы по курсу Java для тестировщиков:__
-  1.  ["Введение в Java" 1](https://github.com/KseniyaChepelevich/Money-Transfer) и [2](https://github.com/KseniyaChepelevich/Credit-Card-Number-Validator),  
-  1.  ["Примитивные типы данных, условные операторы, выход за границы типов и погрешность вычислений" 1](https://github.com/KseniyaChepelevich/Miles.git) и [2](https://github.com/KseniyaChepelevich/Get-one-ruble-for-every-100.git),  
-  1.  ["Testability, авто-тесты, введение в ООП: объекты и методы" 1](https://github.com/KseniyaChepelevich/New-Miles.git), [2](https://github.com/KseniyaChepelevich/Body-mass-index.git) и [3](https://github.com/KseniyaChepelevich/Loan-calculator.git),  
-  1.  ["Система сборки Maven, управление зависимостями, авто-тесты на JUnit5" 1](https://github.com/KseniyaChepelevich/bonus-calc-test1.git) и [2](https://github.com/KseniyaChepelevich/bonus-service.git),  
-  1.  ["Циклы, параметризованные тесты и аннотации (часть 1)"](https://github.com/KseniyaChepelevich/SQRService.git),  
-  1.  ["Циклы, параметризованные тесты и аннотации (часть 2)" 1](https://github.com/KseniyaChepelevich/Statistic-Service.git) и [2](https://github.com/KseniyaChepelevich/Bonus.git),  
-  1.  ["Выстраивание процесса непрерывной интеграции (CI): Github Actions. Покрытие кода с JaCoCo, статический анализ кода: CheckStyle, SpotBugs" 1](https://github.com/KseniyaChepelevich/Check-Style.git) и [2](https://github.com/KseniyaChepelevich/Stop-bugs.git),  
-  1.  ["Объектно-ориентированное программирование и проектирование"](https://github.com/KseniyaChepelevich/Radioman.git),  
-  1.  ["Объектно-ориентированное программирование: ключевые принципы"](https://github.com/KseniyaChepelevich/Vk.git),  
-  1.  ["Композиция и зависимость объектов. Mockito при создании авто-тестов"](https://github.com/KseniyaChepelevich/Poster-manager.git),  
-  1.  ["Наследование и расширяемость систем. Проблемы наследования"](https://github.com/KseniyaChepelevich/Product-new.git),  
-  1.  ["Исключительные ситуации и их обработка. Тестирование исключений"](https://github.com/KseniyaChepelevich/ProductManager2.git),  
-  1.  ["Интерфейсы для организации малой связности. Обобщённое программирование (Generics)"](https://github.com/KseniyaChepelevich/Ticket-search.git),  
-  1.  ["Collections Framework. CRUD и тестирование систем, управляющих набором объектов"](https://github.com/KseniyaChepelevich/Issues.git).
+* __[Курсовой проект к модулю ручное тестирование веб-приложений](https://docs.google.com/document/d/1pOtzILhWQmmu8U28rY-2aazheYXkDWrpZtsamq9uwgk/edit?usp=sharing).__
+* __Java. [Домашние работы по курсу "Java для тестировщиков"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Java_Tester_Homework.md).__
+  
 * __Автоматизированное тестирование (Тестирование API, Selenium, Selenide, Docker, Docker-compose, SQL, Репортинг). Домашние работы по курсу Автоматизированное тестирование:__
 
-  1.  ["Основы автоматизации"](https://github.com/KseniyaChepelevich/-CashbackHackerNew),  
-  1.  ["Тестирование API. CI" 1](https://github.com/KseniyaChepelevich/TestingAPICI) и [2](https://github.com/KseniyaChepelevich/postman_echo),  
-  1.  ["Тестирование веб-интерфейсов, Selenium и Selenide"](https://github.com/KseniyaChepelevich/card_order),  
-  1.  ["Selenide"](https://github.com/KseniyaChepelevich/Card-delivery-order),  
-  1.  ["Patterns"](https://github.com/KseniyaChepelevich/Card-delivery-order-change-date),  
-  1.  ["Behaviour Driven Development"](https://github.com/KseniyaChepelevich/page-object.git),  
-  1.  ["Docker и Docker Compose" 1](https://github.com/KseniyaChepelevich/PostgrySQL.git) и [2](https://github.com/KseniyaChepelevich/Docker.git),  
-  1.  ["SQL"](https://github.com/KseniyaChepelevich/deadline.git),  
-  1.  ["Репортинг: Report Portal"](https://github.com/KseniyaChepelevich/Card-delivery-order-change-date.git),  
-  1.  ["Заключительная лекция"](https://github.com/KseniyaChepelevich/introduction-of-automation.git). 
+ 
 * __JavaScript. [Домашние работы по курсу JavaScript для тестировщиков](https://github.com/KseniyaChepelevich/bjs-2-homeworks.git)__
 
 * __Автоматизацию тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка.__- [Курсовой проект по модулю «Автоматизация тестирования» для профессии «Инженер по тестированию»](https://github.com/KseniyaChepelevich/course_project.git)
