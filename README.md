@@ -13,18 +13,12 @@
  
 * __JavaScript. [Домашние работы по курсу JavaScript для тестировщиков](https://github.com/KseniyaChepelevich/bjs-2-homeworks.git).__
 
-* __Автоматизацию тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка.__- [Курсовой проект по модулю «Автоматизация тестирования» для профессии «Инженер по тестированию»](https://github.com/KseniyaChepelevich/course_project.git)
+* __Автоматизацию тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка.- [Курсовой проект по модулю «Автоматизация тестирования» для профессии «Инженер по тестированию»](https://github.com/KseniyaChepelevich/course_project.git).__
 
 
-* __Автоматизация тестирования веб-интерфейсов с использованием Node.js, Jest, Playwright, Puppeeter,Cypress. Домашние работы по курсу Автоматизированное тестирование веб-интерфейсов:__
+* __Автоматизация тестирования веб-интерфейсов с использованием Node.js, Jest, Playwright, Puppeeter,Cypress. [Домашние работы по курсу "Автоматизированное тестирование веб-интерфейсов"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework%20for%20the%20course%20Automated%20Testing_of_Web_Interfaces.md).__
 
-  1.  ["Использование JS в браузере. Тестирование, дебаггинг."](https://github.com/KseniyaChepelevich/testing_and_debugging.git),  
-  1.  ["Знакомство с платформой Node.js"](https://github.com/KseniyaChepelevich/7.2.git),  
-  1.  ["Jest. Playwright" 1](https://github.com/KseniyaChepelevich/7.2_Test_Jest.git) и [2](https://github.com/KseniyaChepelevich/Test_Playwright.git),  
-  1.  ["Puppeeter, ч.1"](https://github.com/KseniyaChepelevich/7.4_puppeteer_timeout.git),  
-  1.  ["Puppeeter, ч.2"](https://github.com/KseniyaChepelevich/7.5_puppeteer_ticket_booking.git),  
-  1.  ["Cypress ч.1"](https://github.com/KseniyaChepelevich/CYPRS_1.git),  
-  1.  ["Cypress ч.2"](https://github.com/KseniyaChepelevich/Cypress2_cinema.git).
+ 
 * __Тестирование мобильных приложений ручное и автоматизированное. Домашние работы по курсу тестирование мобильных приложений:__
 
   1.  ["Ручное тестирование мобильных приложений. Введение."](https://docs.google.com/spreadsheets/d/1WWgN8azxuZx17rD3fjDJuY1G77PNyD3X7Dx35VKAkgs/edit?usp=sharing),  
