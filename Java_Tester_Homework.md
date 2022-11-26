@@ -1,4 +1,4 @@
-## Домашние работы по курсу Java для тестировщиков
+## Домашние работы по курсу "Java для тестировщиков"
   1.  ["Введение в Java" 1](https://github.com/KseniyaChepelevich/Money-Transfer) и [2](https://github.com/KseniyaChepelevich/Credit-Card-Number-Validator),  
   1.  ["Примитивные типы данных, условные операторы, выход за границы типов и погрешность вычислений" 1](https://github.com/KseniyaChepelevich/Miles.git) и [2](https://github.com/KseniyaChepelevich/Get-one-ruble-for-every-100.git),  
   1.  ["Testability, авто-тесты, введение в ООП: объекты и методы" 1](https://github.com/KseniyaChepelevich/New-Miles.git), [2](https://github.com/KseniyaChepelevich/Body-mass-index.git) и [3](https://github.com/KseniyaChepelevich/Loan-calculator.git),  
