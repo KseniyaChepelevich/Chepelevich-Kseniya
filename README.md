@@ -22,13 +22,12 @@
 * __Тестирование мобильных приложений ручное и автоматизированное. [Домашние работы по курсу "Тестирование мобильных приложений"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_the_mobile_app_testing_course.md).__
 
  
-* __Автоматизация тестирования мобильных приложений (UIAutomator, Appium, Espresso). [Домашние работы по блоку "Автоматизация тестирования мобильных приложени"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_on_the_bloc_Automation_of_testing_of_mobile_applications.md):__ 
+* __Автоматизация тестирования мобильных приложений (UIAutomator, Appium, Espresso). [Домашние работы по блоку "Автоматизация тестирования мобильных приложени"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_on_the_bloc_Automation_of_testing_of_mobile_applications.md)__ 
 
   
-* __Тестирование производительности. Домашние работы по курсу Тестирование производительности:__ 
+* __Тестирование производительности. [Домашние работы по курсу "Тестирование производительности"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_the_Performance_Testing_course.md).__ 
 
-  1. ["Введение в тестирование производительности"](https://docs.google.com/document/d/1AeEF4eiATyasRt68-JMK68Q8zHkO8LbAmfDgJmmntvU/edit?usp=sharing),  
-  1.  ["Подготовка стенда тестирования" 1](https://github.com/KseniyaChepelevich/prometheus.git) и [2](https://github.com/KseniyaChepelevich/telegraf_grafana.git).
+ 
 * __Тестирование безопасности. Домашние работы по курсу Тестирование безопасности:__ 
 
   1.  ["Введение в тестирование безопасности"](https://docs.google.com/document/d/1K3KFQ79TXgJjVPRZjyDj295LP-9xP7aSMNKoypasjCg/edit?usp=sharing),  
