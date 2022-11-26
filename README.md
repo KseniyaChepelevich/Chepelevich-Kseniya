@@ -5,7 +5,7 @@
 * __Введение в тестирование. [Домашние работы по курсу "Введение в тестирование"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_the_course_Introduction_to_Testing.md).__ 
 
   
-* __[Курсовой проект к модулю ручное тестирование веб-приложений](https://docs.google.com/document/d/1pOtzILhWQmmu8U28rY-2aazheYXkDWrpZtsamq9uwgk/edit?usp=sharing).__
+* __[Курсовой проект к модулю "Ручное тестирование веб-приложений"](https://docs.google.com/document/d/1pOtzILhWQmmu8U28rY-2aazheYXkDWrpZtsamq9uwgk/edit?usp=sharing).__
 * __Java. [Домашние работы по курсу "Java для тестировщиков"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Java_Tester_Homework.md).__
   
 * __Автоматизированное тестирование (Тестирование API, Selenium, Selenide, Docker, Docker-compose, SQL, Репортинг). [Домашние работы по курсу "Автоматизированное тестирование"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_the_course_Automated_Testing.md).__
