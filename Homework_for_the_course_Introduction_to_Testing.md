@@ -1,4 +1,4 @@
-## Домашние работы по курсу Введение в тестирование:__ 
+## Домашние работы по курсу "Введение в тестирование" 
 
   1.  ["Введение в тестирование ПО. Методы и виды тестирования"](https://docs.google.com/document/d/1mnD4XBqXqxs3M0K5YQ7Ci34aFaAoVrQc6u-ekgDEqu8/edit?usp=sharing),  
   1.  ["Основы клиент-серверного взаимодействия"](https://docs.google.com/document/d/1H5xwd6ulLpzKSvqdwBCHh2KyKlS_Uvj1iWaPasFEgDU/edit?usp=sharing),  
