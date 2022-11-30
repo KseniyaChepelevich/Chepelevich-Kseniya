@@ -35,13 +35,13 @@
 
 ## Сертификаты Нетологии
 
-* [Введение в тестирование]()
-* [GIT]()
-* [Java для тестировщиков]()
-* [Автоматизированное тестирование]()
-* [Курсовая работа по итогам 4 модулей]()
-* [JavaScript для тестировщиков]()
-* [Автоматизация тестирования веб-интерфейсов]()
-* [Тестирование мобильных приложений]()
-* [Тестирование производительности]()
-* [Тестирование безопасности]()
+* [Введение в тестирование](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/introduction_to_testing.pdf)
+* [GIT](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/git.pdf)
+* [Java для тестировщиков](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/javascript_for_testers.pdf)
+* [Автоматизированное тестирование](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/automated_testing.pdf)
+* [Курсовая работа по итогам 4 модулей](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/course_work.pdf)
+* [JavaScript для тестировщиков](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/javascript_for_testers.pdf)
+* [Автоматизация тестирования веб-интерфейсов](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/web_interface_testing_automation.pdf)
+* [Тестирование мобильных приложений](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/mobile_app_testing.pdf)
+* [Тестирование производительности](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/performance_testing.pdf)
+* [Тестирование безопасности](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/security_testing.pdf)
