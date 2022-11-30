@@ -37,7 +37,7 @@
 
 * [Введение в тестирование](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/introduction_to_testing.pdf)
 * [GIT](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/git.pdf)
-* [Java для тестировщиков](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/javascript_for_testers.pdf)
+* [Java для тестировщиков](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/java_for_testers.pdf)
 * [Автоматизированное тестирование](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/automated_testing.pdf)
 * [Курсовая работа по итогам 4 модулей](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/course_work.pdf)
 * [JavaScript для тестировщиков](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/javascript_for_testers.pdf)
