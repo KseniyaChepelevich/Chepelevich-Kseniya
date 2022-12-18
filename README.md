@@ -30,6 +30,7 @@
  
 * __Тестирование безопасности. [Домашние работы по курсу "Тестирование безопасности"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_Security_Testing.md).__ 
 
+*__[Дипломный проект профессии «Инженер по тестированию»](https://github.com/KseniyaChepelevich/diplom/tree/testing).__
  
 
 
@@ -45,3 +46,4 @@
 * [Тестирование мобильных приложений](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/mobile_app_testing.pdf)
 * [Тестирование производительности](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/performance_testing.pdf)
 * [Тестирование безопасности](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/security_testing.pdf)
+* [Диплом о профессиональной переподготовке]()
