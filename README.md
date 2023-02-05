@@ -46,4 +46,4 @@
 * [Тестирование мобильных приложений](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/mobile_app_testing.pdf)
 * [Тестирование производительности](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/performance_testing.pdf)
 * [Тестирование безопасности](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/security_testing.pdf)
-* [Диплом о профессиональной переподготовке](https://github.com/KseniyaChepelevich/KseniyaChepelevich/blob/main/certificate.pdf)
+* [Диплом о профессиональной переподготовке](https://github.com/KseniyaChepelevich/KseniyaChepelevich/blob/main/Diploma.pdf)
