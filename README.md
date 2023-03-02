@@ -68,7 +68,10 @@
   
 # Автоматизированнон тестирование
 * [Тестирование API ("Postman Echo")](https://github.com/KseniyaChepelevich/postman_echo.git): Java11, IntelliJ IDEA, Git, Gradle, REST-assured, CI. 
-* 
+* Тестирование веб-интерфейсов:
+* ["Заказ карты"](https://github.com/KseniyaChepelevich/card_order): Java11, IntelliJ IDEA, Git, Gradle, Selenium.
+* ["Заказ доставки карты"](https://github.com/KseniyaChepelevich/Card-delivery-order): Java11, IntelliJ IDEA, Git, Gradle, Selenide, DevTools, XPath.
+* ["Заказ доставки карты (изменение даты)"](https://github.com/KseniyaChepelevich/Card-delivery-order-change-date.git): 
 * __Автоматизированное тестирование (Тестирование API, Selenium, Selenide, Docker, Docker-compose, SQL, Репортинг). ["Автоматизированное тестирование"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_the_course_Automated_Testing.md).__
 
  
