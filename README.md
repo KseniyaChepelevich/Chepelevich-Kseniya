@@ -50,7 +50,7 @@
 * __Введение в тестирование. [Домашние работы по курсу "Введение в тестирование"](https://docs.google.com/spreadsheets/d/1HsmOOkTPuGNssnu1JD4DQ98-QDzl_JP6cHaYZ4TpPBw/edit?usp=sharing).__ 
 
   
-* __[Ручное тестирование henderson.ru"](https://docs.google.com/document/d/1pOtzILhWQmmu8U28rY-2aazheYXkDWrpZtsamq9uwgk/edit?usp=sharing).__
+* __[Ручное тестирование henderson.ru"](https://docs.google.com/document/d/1pOtzILhWQmmu8U28rY-2aazheYXkDWrpZtsamq9uwgk/edit?usp=sharing): тестирование требований, чек-лист, тестк-кейсы, тестирование верстки, тестирование API, DevTools.__
 * __Java. [Домашние работы по курсу "Java для тестировщиков"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Java_Tester_Homework.md).__
   
 * __Автоматизированное тестирование (Тестирование API, Selenium, Selenide, Docker, Docker-compose, SQL, Репортинг). [Домашние работы по курсу "Автоматизированное тестирование"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_the_course_Automated_Testing.md).__
