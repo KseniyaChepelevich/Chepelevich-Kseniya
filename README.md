@@ -71,7 +71,7 @@
 * Тестирование веб-интерфейсов:
 * ["Заказ карты"](https://github.com/KseniyaChepelevich/card_order): Java11, IntelliJ IDEA, Git, Gradle, Selenium.
 * ["Заказ доставки карты"](https://github.com/KseniyaChepelevich/Card-delivery-order): Java11, IntelliJ IDEA, Git, Gradle, Selenide, DevTools, XPath.
-* ["Заказ доставки карты (изменение даты)"](https://github.com/KseniyaChepelevich/Card-delivery-order-change-date.git): 
+* ["Заказ доставки карты (изменение даты)"](https://github.com/KseniyaChepelevich/Card-delivery-order-change-date.git): Java11, IntelliJ IDEA, Git, Gradle, Selenide, REST-assured, JSON.
 * __Автоматизированное тестирование (Тестирование API, Selenium, Selenide, Docker, Docker-compose, SQL, Репортинг). ["Автоматизированное тестирование"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_the_course_Automated_Testing.md).__
 
  
@@ -98,9 +98,8 @@
  
 
 
-## Сертификаты Нетологии
+## Сертификаты обучающих курсов
 
-* [Введение в тестирование](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/introduction_to_testing.pdf)
 * [GIT](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/git.pdf)
 * [Java для тестировщиков](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/java_for_testers.pdf)
 * [Автоматизированное тестирование](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/automated_testing.pdf)
