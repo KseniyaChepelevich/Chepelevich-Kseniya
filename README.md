@@ -57,8 +57,14 @@
 * ["Индекс массы тела" (Body mass index)](https://github.com/KseniyaChepelevich/Body-mass-index.git): Java11, IntelliJ IDEA, Git.
 * ["Кредитный калькулятор" (Credit calculator)](https://github.com/KseniyaChepelevich/Loan-calculator): Java11, IntelliJ IDEA, Git.
 * ["Бонус калькулятор" (Bonus calculator)](https://github.com/KseniyaChepelevich/bonus-calc-test1): Java11, IntelliJ IDEA, Git, Maven, JUnit5.
-* 
-[Домашние работы по курсу "Java для тестировщиков"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Java_Tester_Homework.md).__
+* ["Количество квадратов" (Number of squares)](https://github.com/KseniyaChepelevich/SQRService.git): Java11, IntelliJ IDEA, Git, Maven, JUnit5, ParameterizedTest.
+* ["Радиоман"(Radioman)](https://github.com/KseniyaChepelevich/Radioman.git): Java11, IntelliJ IDEA, Git, Maven, JUnit5, GitHub CI, Jacoco.
+* ["Vk"](https://github.com/KseniyaChepelevich/Vk.git): Java11, IntelliJ IDEA, Git, Maven, JUnit5.
+* ["Менеджер афиш" (Poster manager)](https://github.com/KseniyaChepelevich/Poster-manager): Java11, IntelliJ IDEA, Git, Maven, JUnit5, GitHub Actions, Jacoco, Lombok.
+* ["Менеджер товаров" (Product manager)](https://github.com/KseniyaChepelevich/Product-new): Java11, IntelliJ IDEA, Git, Maven, JUnit5, GitHub Actions, Jacoco.
+* ["Поиск билетов" (Tickets search)(https://github.com/KseniyaChepelevich/Ticket-search): Java11, IntelliJ IDEA, Git, Maven, JUnit5, GitHub Actions, Jacoco.
+* ["Issues"](https://github.com/KseniyaChepelevich/Issues.git): Java11, IntelliJ IDEA, Git, Maven, JUnit5, GitHub Actions, Jacoco.
+
   
 * __Автоматизированное тестирование (Тестирование API, Selenium, Selenide, Docker, Docker-compose, SQL, Репортинг). [Домашние работы по курсу "Автоматизированное тестирование"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_the_course_Automated_Testing.md).__
 
