@@ -46,10 +46,10 @@
 * __JavaScript__
 
 
-## Ссылки на проекты 
+# Ссылки на проекты 
 * [Ручное тестирование henderson.ru"](https://docs.google.com/document/d/1pOtzILhWQmmu8U28rY-2aazheYXkDWrpZtsamq9uwgk/edit?usp=sharing): тестирование требований, чек-лист, тестк-кейсы, тестирование верстки, тестирование API, DevTools.
 
-# Java
+## Java
 * ["Перевод денег" (Money Transfer)](https://github.com/KseniyaChepelevich/Money-Transfer.git): Java11, IntelliJ IDEA, Git.
 * ["Валидатор номера кредитной карты" (Credit Card Number Validator)](https://github.com/KseniyaChepelevich/Credit-Card-Number-Validator.git): Java11, IntelliJ IDEA, Git.
 * ["Мили" (Miles)](https://github.com/KseniyaChepelevich/New-Miles.git): Java11, IntelliJ IDEA, Git.
@@ -66,13 +66,17 @@
 * ["Issues"](https://github.com/KseniyaChepelevich/Issues.git): Java11, IntelliJ IDEA, Git, Maven, JUnit5, GitHub Actions, Jacoco.
 
   
-# Автоматизированнон тестирование
-* [Тестирование API ("Postman Echo")](https://github.com/KseniyaChepelevich/postman_echo.git): Java11, IntelliJ IDEA, Git, Gradle, REST-assured, CI. 
-* Тестирование веб-интерфейсов:
-* ["Заказ карты"](https://github.com/KseniyaChepelevich/card_order): Java11, IntelliJ IDEA, Git, Gradle, Selenium.
-* ["Заказ доставки карты"](https://github.com/KseniyaChepelevich/Card-delivery-order): Java11, IntelliJ IDEA, Git, Gradle, Selenide, DevTools, XPath.
-* ["Заказ доставки карты (изменение даты)"](https://github.com/KseniyaChepelevich/Card-delivery-order-change-date.git): Java11, IntelliJ IDEA, Git, Gradle, Selenide, REST-assured, JSON.
-* __Автоматизированное тестирование (Тестирование API, Selenium, Selenide, Docker, Docker-compose, SQL, Репортинг). ["Автоматизированное тестирование"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_the_course_Automated_Testing.md).__
+## Автоматизированное тестирование
+* ["Postman Echo"](https://github.com/KseniyaChepelevich/postman_echo.git): Java11, IntelliJ IDEA, Junit5, Git, Gradle, REST-assured, CI. 
+* ["Заказ карты"](https://github.com/KseniyaChepelevich/card_order): Java11, IntelliJ IDEA, Junit5, Git, Gradle, Selenium.
+* ["Заказ доставки карты"](https://github.com/KseniyaChepelevich/Card-delivery-order): Java11, IntelliJ IDEA, Junit5, Git, Gradle, Selenide, DevTools, XPath.
+* ["Заказ доставки карты (изменение даты)"](https://github.com/KseniyaChepelevich/Card-delivery-order-change-date.git): Java11, IntelliJ IDEA, Junit5, Git, Gradle, Selenide, Javafaker, Allure.
+* ["Page Object's"](https://github.com/KseniyaChepelevich/page-object): Java11, IntelliJ IDEA, Junit5, Git, Gradle, Selenide.
+* ["PostgrySQL"](https://github.com/KseniyaChepelevich/PostgrySQL.git): IDEA, Git, Docker, PostgreSQL.
+* ["Докеризация приложения"](https://github.com/KseniyaChepelevich/Docker.git): IntelliJ IDEA, Git, Docker, Node.js
+* ["Скоро дедлайн"](https://github.com/KseniyaChepelevich/deadline.git): Java11, IntelliJ IDEA, Junit5, Gradle, Git, Selenide, Javafaker, Docker, MySQL. 
+* ["План автоматизации тестирования сценария перехода к форме записи и заполнения этой формы"](https://github.com/KseniyaChepelevich/introduction-of-automation): Gradle, Git.
+
 
  
 * __JavaScript. [JavaScript для тестировщиков](https://github.com/KseniyaChepelevich/bjs-2-homeworks.git).__
