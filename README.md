@@ -62,10 +62,13 @@
 * ["Vk"](https://github.com/KseniyaChepelevich/Vk.git): Java11, IntelliJ IDEA, Git, Maven, JUnit5.
 * ["Менеджер афиш" (Poster manager)](https://github.com/KseniyaChepelevich/Poster-manager): Java11, IntelliJ IDEA, Git, Maven, JUnit5, GitHub Actions, Jacoco, Lombok.
 * ["Менеджер товаров" (Product manager)](https://github.com/KseniyaChepelevich/Product-new): Java11, IntelliJ IDEA, Git, Maven, JUnit5, GitHub Actions, Jacoco.
-* ["Поиск билетов" (Tickets search)(https://github.com/KseniyaChepelevich/Ticket-search): Java11, IntelliJ IDEA, Git, Maven, JUnit5, GitHub Actions, Jacoco.
+* ["Поиск билетов" (Tickets search)](https://github.com/KseniyaChepelevich/Ticket-search): Java11, IntelliJ IDEA, Git, Maven, JUnit5, GitHub Actions, Jacoco.
 * ["Issues"](https://github.com/KseniyaChepelevich/Issues.git): Java11, IntelliJ IDEA, Git, Maven, JUnit5, GitHub Actions, Jacoco.
 
   
+# Автоматизированнон тестирование
+* [Тестирование API ("Postman Echo")(https://github.com/KseniyaChepelevich/postman_echo.git): Java11, IntelliJ IDEA, Git, Gradle, REST-assured, CI. 
+* 
 * __Автоматизированное тестирование (Тестирование API, Selenium, Selenide, Docker, Docker-compose, SQL, Репортинг). [Домашние работы по курсу "Автоматизированное тестирование"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_the_course_Automated_Testing.md).__
 
  
