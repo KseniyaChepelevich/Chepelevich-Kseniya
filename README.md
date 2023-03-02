@@ -1,7 +1,7 @@
 ## Связаться со мной
-*__+7-903-770-35-97__
-*__@Kseniya_Chepelevich__
-*__chepelevich.kseniya@gmail.com__
+* __+7-903-770-35-97__
+* __@Kseniya_Chepelevich__
+* __chepelevich.kseniya@gmail.com__
 
 # Привет! Меня зовут Ксения, я Инженер по тестированию ПО.
 
@@ -34,7 +34,7 @@
  
 * __Тестирование безопасности. [Домашние работы по курсу "Тестирование безопасности"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_Security_Testing.md).__ 
 
-*__[Дипломный проект профессии «Инженер по тестированию»](https://github.com/KseniyaChepelevich/diplom/tree/testing).__
+* __[Дипломный проект профессии «Инженер по тестированию»](https://github.com/KseniyaChepelevich/diplom/tree/testing).__
  
 
 
