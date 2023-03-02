@@ -46,7 +46,7 @@
 * __JavaScript__
 
 
-## Вот что я умею
+## Ссылки на проекты
 * __Введение в тестирование. [Домашние работы по курсу "Введение в тестирование"](https://docs.google.com/spreadsheets/d/1HsmOOkTPuGNssnu1JD4DQ98-QDzl_JP6cHaYZ4TpPBw/edit?usp=sharing).__ 
 
   
