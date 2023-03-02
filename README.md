@@ -1,6 +1,6 @@
 ## Связаться со мной
 * __+7-903-770-35-97__
-* __@Kseniya_Chepelevich__
+* __[@Kseniya_Chepelevich]__(https://t.me/Kseniya_Chepelevich)
 * __chepelevich.kseniya@gmail.com__
 
 # Привет! Меня зовут Ксения, я Инженер по тестированию ПО.
