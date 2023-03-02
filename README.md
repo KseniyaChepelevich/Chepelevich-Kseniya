@@ -1,4 +1,9 @@
-## Привет! Меня зовут Ксения, я Инженер по тестированию ПО.
+## Связаться со мной
++7-903-770-35-97
+@Kseniya_Chepelevich
+chepelevich.kseniya@gmail.com
+
+# Привет! Меня зовут Ксения, я Инженер по тестированию ПО.
 
 ## Вот что я умею
 * __Введение в тестирование. [Домашние работы по курсу "Введение в тестирование"](https://docs.google.com/spreadsheets/d/1HsmOOkTPuGNssnu1JD4DQ98-QDzl_JP6cHaYZ4TpPBw/edit?usp=sharing).__ 
