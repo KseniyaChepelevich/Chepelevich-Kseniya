@@ -46,12 +46,19 @@
 * __JavaScript__
 
 
-## Ссылки на проекты
-* __Введение в тестирование. [Домашние работы по курсу "Введение в тестирование"](https://docs.google.com/spreadsheets/d/1HsmOOkTPuGNssnu1JD4DQ98-QDzl_JP6cHaYZ4TpPBw/edit?usp=sharing).__ 
+## Ссылки на проекты 
+* [Ручное тестирование henderson.ru"](https://docs.google.com/document/d/1pOtzILhWQmmu8U28rY-2aazheYXkDWrpZtsamq9uwgk/edit?usp=sharing): тестирование требований, чек-лист, тестк-кейсы, тестирование верстки, тестирование API, DevTools.
 
-  
-* __[Ручное тестирование henderson.ru"](https://docs.google.com/document/d/1pOtzILhWQmmu8U28rY-2aazheYXkDWrpZtsamq9uwgk/edit?usp=sharing): тестирование требований, чек-лист, тестк-кейсы, тестирование верстки, тестирование API, DevTools.__
-* __Java. [Домашние работы по курсу "Java для тестировщиков"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Java_Tester_Homework.md).__
+# Java
+* ["Перевод денег" (Money Transfer)](https://github.com/KseniyaChepelevich/Money-Transfer.git): Java11, IntelliJ IDEA, Git.
+* ["Валидатор номера кредитной карты" (Credit Card Number Validator)](https://github.com/KseniyaChepelevich/Credit-Card-Number-Validator.git): Java11, IntelliJ IDEA, Git.
+* ["Мили" (Miles)](https://github.com/KseniyaChepelevich/New-Miles.git): Java11, IntelliJ IDEA, Git.
+* ["Получи рубль за каждые 100!" (Get a ruble for every 100!)](https://github.com/KseniyaChepelevich/Get-one-ruble-for-every-100.git): Java11, IntelliJ IDEA, Git.
+* ["Индекс массы тела" (Body mass index)](https://github.com/KseniyaChepelevich/Body-mass-index.git): Java11, IntelliJ IDEA, Git.
+* ["Кредитный калькулятор" (Credit calculator)](https://github.com/KseniyaChepelevich/Loan-calculator): Java11, IntelliJ IDEA, Git.
+* ["Бонус калькулятор" (Bonus calculator)](https://github.com/KseniyaChepelevich/bonus-calc-test1): Java11, IntelliJ IDEA, Git, Maven, JUnit5.
+* 
+[Домашние работы по курсу "Java для тестировщиков"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Java_Tester_Homework.md).__
   
 * __Автоматизированное тестирование (Тестирование API, Selenium, Selenide, Docker, Docker-compose, SQL, Репортинг). [Домашние работы по курсу "Автоматизированное тестирование"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_the_course_Automated_Testing.md).__
 
