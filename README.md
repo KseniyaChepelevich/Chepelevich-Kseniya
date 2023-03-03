@@ -1,7 +1,7 @@
 ## Связаться со мной
- __+7-903-770-35-97__
- __[@Kseniya_Chepelevich](https://t.me/Kseniya_Chepelevich)__
- __chepelevich.kseniya@gmail.com__
+ * __+7-903-770-35-97__
+ * __[@Kseniya_Chepelevich](https://t.me/Kseniya_Chepelevich)__
+ * __chepelevich.kseniya@gmail.com__
  
  ## Резюме
  [Резюме QA engineer](https://github.com/KseniyaChepelevich/KseniyaChepelevich/blob/main/CV_QA_engineer.pdf)
