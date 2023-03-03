@@ -4,7 +4,7 @@
  __chepelevich.kseniya@gmail.com__
  
  ## Резюме
- [Резюме QA engeneer]()
+ [Резюме QA engineer](https://github.com/KseniyaChepelevich/KseniyaChepelevich/blob/main/CV_QA_engineer.pdf)
 
 # Привет! Меня зовут Ксения, я Инженер по тестированию ПО.
 * __Мне нравится решать логические задачи и находить баги.__
