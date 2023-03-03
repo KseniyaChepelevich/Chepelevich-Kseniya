@@ -81,7 +81,7 @@
  
 * __JavaScript. [JavaScript для тестировщиков](https://github.com/KseniyaChepelevich/bjs-2-homeworks.git).__
 
-* __Автоматизацию тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка.- [Курсовой проект по модулю «Автоматизация тестирования» для профессии «Инженер по тестированию»](https://github.com/KseniyaChepelevich/course_project.git).__
+* __Автоматизацию тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка.- [Тестирования веб-сервиса для покупки тура](https://github.com/KseniyaChepelevich/course_project.git).__
 
 
 * __Автоматизация тестирования веб-интерфейсов с использованием Node.js, Jest, Playwright, Puppeeter,Cypress. ["Автоматизированное тестирование веб-интерфейсов"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework%20for%20the%20course%20Automated%20Testing_of_Web_Interfaces.md).__
