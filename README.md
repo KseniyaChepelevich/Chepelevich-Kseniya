@@ -58,7 +58,7 @@
 * ["Мили" (Miles)](https://github.com/KseniyaChepelevich/New-Miles.git): Java11, IntelliJ IDEA, Git.
 * ["Получи рубль за каждые 100!" (Get a ruble for every 100!)](https://github.com/KseniyaChepelevich/Get-one-ruble-for-every-100.git): Java11, IntelliJ IDEA, Git.
 * ["Индекс массы тела" (Body mass index)](https://github.com/KseniyaChepelevich/Body-mass-index.git): Java11, IntelliJ IDEA, Git.
-* ["Кредитный калькулятор" (Credit calculator)](https://github.com/KseniyaChepelevich/Loan-calculator): Java11, IntelliJ IDEA, Git.
+* ["Параметризованные тесты"](https://github.com/KseniyaChepelevich/Loan-calculator): Java11, IntelliJ IDEA, Git.
 * ["Бонус калькулятор" (Bonus calculator)](https://github.com/KseniyaChepelevich/bonus-calc-test1): Java11, IntelliJ IDEA, Git, Maven, JUnit5.
 * ["Количество квадратов" (Number of squares)](https://github.com/KseniyaChepelevich/SQRService.git): Java11, IntelliJ IDEA, Git, Maven, JUnit5, ParameterizedTest.
 * ["Радиоман"(Radioman)](https://github.com/KseniyaChepelevich/Radioman.git): Java11, IntelliJ IDEA, Git, Maven, JUnit5, GitHub CI, Jacoco.
