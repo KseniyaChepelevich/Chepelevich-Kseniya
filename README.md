@@ -19,7 +19,7 @@
 
 ## Тестовая документация:
 * __Тестирование требований__
-* __Тест-дизайн, [чек-листы](), тест-кейсы__
+* __Тест-дизайн, [чек-листы](https://github.com/KseniyaChepelevich/KseniyaChepelevich/tree/main/Test_documentation/Check_lists), тест-кейсы__
 * __[Bug-Reports]()__
 * __SQL-запросы__
 * __Postman Collections__
