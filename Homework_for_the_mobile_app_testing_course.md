@@ -1,6 +1,5 @@
-## Домашние работы по курсу "Тестирование мобильных приложений"
-
-  1.  ["Ручное тестирование мобильных приложений. Введение."](https://docs.google.com/spreadsheets/d/1WWgN8azxuZx17rD3fjDJuY1G77PNyD3X7Dx35VKAkgs/edit?usp=sharing),  
+## Тестирование мобильных приложений
+  
   1.  ["Тестирование iOS-приложений"](https://docs.google.com/spreadsheets/d/1YanC6tAY_TpZ0a_NlSZP2hSJ5ojX78-qei2lgLO3q3o/edit?usp=sharing),  
   1.  ["Тестирование Android-приложений"](https://docs.google.com/spreadsheets/d/1-0KU-UJ1CshVASI0YQbqLYKK13ITyk4lu9CZQ0LYmSg/edit?usp=sharing),  
   1.  ["Инструменты для ручного тестирования мобильных приложений"](https://docs.google.com/spreadsheets/d/1ZOsnv5yS9iJIFh-KAmpqfSxZyibOM437lISr6khqd9Q/edit?usp=sharing),  
