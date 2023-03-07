@@ -1,4 +1,4 @@
-## Домашние работы по курсу "Автоматизированное тестирование"
+## Автоматизированное тестирование
 
   1.  ["Основы автоматизации"](https://github.com/KseniyaChepelevich/-CashbackHackerNew),  
   1.  ["Тестирование API. CI" 1](https://github.com/KseniyaChepelevich/TestingAPICI) и [2](https://github.com/KseniyaChepelevich/postman_echo),  
