@@ -10,7 +10,7 @@
 * __Мне нравится решать логические задачи и находить баги.__
 * __Увлекаюсь программированием, интересуюсь нововведениями в сфере IT.__
 * __Образование высшее техническое [(диплом)](https://github.com/KseniyaChepelevich/KseniyaChepelevich/blob/main/Certificates/Diplom_HE.pdf).__
-* __Прошла профессиональную переподготовку в Нетологии по специальности [Инженер по тестированию: с нуля до middle](https://netology.ru/programs/qa-middle) и получила [диплом](https://github.com/KseniyaChepelevich/KseniyaChepelevich/blob/main/Diploma.pdf).__
+* __Прошла профессиональную переподготовку в Нетологии по специальности [Инженер по тестированию: с нуля до middle](https://netology.ru/programs/qa-middle) и получила [диплом](https://github.com/KseniyaChepelevich/KseniyaChepelevich/blob/main/Certificates/Diploma.pdf).__
 * __Совершенствуюсь в тестировании web-приложений, desctop-приложений и  mobile-приложений, а также в написании автотестов на Java и JavaScript.__
 * __Изучаю Python.__
 * __В свободное время занимаюсь семьей, кулинарией, катанием на роликах и, конечно, обучением.__
@@ -107,15 +107,15 @@
 
 ## Сертификаты обучающих курсов
 
-* [GIT](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/git.pdf)
-* [Java для тестировщиков](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/java_for_testers.pdf)
-* [Автоматизированное тестирование](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/automated_testing.pdf)
-* [Курсовая работа по итогам 4 модулей](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/course_work.pdf)
-* [JavaScript для тестировщиков](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/javascript_for_testers.pdf)
-* [Автоматизация тестирования веб-интерфейсов](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/web_interface_testing_automation.pdf)
-* [Тестирование мобильных приложений](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/mobile_app_testing.pdf)
-* [Тестирование производительности](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/performance_testing.pdf)
-* [Тестирование безопасности](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/security_testing.pdf)
-* [Диплом о профессиональной переподготовке](https://github.com/KseniyaChepelevich/KseniyaChepelevich/blob/main/Diploma.pdf)
+* [GIT](https://github.com/KseniyaChepelevich/KseniyaChepelevich/blob/main/Certificates/git.pdf)
+* [Java для тестировщиков](https://github.com/KseniyaChepelevich/KseniyaChepelevich/blob/main/Certificates/java_for_testers.pdf)
+* [Автоматизированное тестирование](https://github.com/KseniyaChepelevich/KseniyaChepelevich/blob/main/Certificates/automated_testing.pdf)
+* [Курсовая работа по итогам 4 модулей](https://github.com/KseniyaChepelevich/KseniyaChepelevich/blob/main/Certificates/course_work.pdf)
+* [JavaScript для тестировщиков](https://github.com/KseniyaChepelevich/KseniyaChepelevich/blob/main/Certificates/javascript_for_testers.pdf)
+* [Автоматизация тестирования веб-интерфейсов](https://github.com/KseniyaChepelevich/KseniyaChepelevich/blob/main/Certificates/web_interface_testing_automation.pdf)
+* [Тестирование мобильных приложений](https://github.com/KseniyaChepelevich/KseniyaChepelevich/blob/main/Certificates/mobile_app_testing.pdf)
+* [Тестирование производительности](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Certificates/performance_testing.pdf)
+* [Тестирование безопасности](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Certificates/security_testing.pdf)
+* [Диплом о профессиональной переподготовке](https://github.com/KseniyaChepelevich/KseniyaChepelevich/blob/main/Certificates/Diploma.pdf)
 
 ## Моя статистика
