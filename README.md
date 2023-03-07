@@ -9,7 +9,7 @@
 # Привет! Меня зовут Ксения, я Инженер по тестированию ПО.
 * __Мне нравится решать логические задачи и находить баги.__
 * __Увлекаюсь программированием, интересуюсь нововведениями в сфере IT.__
-* __Образование высшее техническое [(диплом)](https://github.com/KseniyaChepelevich/KseniyaChepelevich/blob/main/Diplom_HE.pdf).__
+* __Образование высшее техническое [(диплом)](https://github.com/KseniyaChepelevich/KseniyaChepelevich/blob/main/Certificates/Diplom_HE.pdf).__
 * __Прошла профессиональную переподготовку в Нетологии по специальности [Инженер по тестированию: с нуля до middle](https://netology.ru/programs/qa-middle) и получила [диплом](https://github.com/KseniyaChepelevich/KseniyaChepelevich/blob/main/Diploma.pdf).__
 * __Совершенствуюсь в тестировании web-приложений, desctop-приложений и  mobile-приложений, а также в написании автотестов на Java и JavaScript.__
 * __Изучаю Python.__
