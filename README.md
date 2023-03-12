@@ -84,7 +84,7 @@
  
 * __JavaScript. [JavaScript для тестировщиков](https://github.com/KseniyaChepelevich/bjs-2-homeworks.git).__
 
-* __Автоматизацию тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка.- [Тестирования веб-сервиса для покупки тура](https://github.com/KseniyaChepelevich/course_project.git): Java 8, GitHub, Android Studio, Charles, Espresso, Allure.
+* __Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка.- [Тестирование веб-сервиса для покупки тура](https://github.com/KseniyaChepelevich/course_project.git): Java 8, GitHub, Android Studio, Charles, Espresso, Allure.
 
 
 ## Автоматизация тестирования веб-интерфейсов с использованием Node.js, Jest, Playwright, Puppeeter,Cypress. 
