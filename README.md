@@ -84,10 +84,13 @@
  
 * __JavaScript. [JavaScript для тестировщиков](https://github.com/KseniyaChepelevich/bjs-2-homeworks.git).__
 
-* __Автоматизацию тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка.- [Тестирования веб-сервиса для покупки тура](https://github.com/KseniyaChepelevich/course_project.git).__
+* __Автоматизацию тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка.- [Тестирования веб-сервиса для покупки тура](https://github.com/KseniyaChepelevich/course_project.git): Java 8, GitHub, Android Studio, Charles, Espresso, Allure.
 
 
-* __Автоматизация тестирования веб-интерфейсов с использованием Node.js, Jest, Playwright, Puppeeter,Cypress. ["Автоматизированное тестирование веб-интерфейсов"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework%20for%20the%20course%20Automated%20Testing_of_Web_Interfaces.md).__
+## Автоматизация тестирования веб-интерфейсов с использованием Node.js, Jest, Playwright, Puppeeter,Cypress. 
+* ["Тестирование авторизаци и на сайте netology.ru"](https://github.com/KseniyaChepelevich/Test_Playwright): Visual Studio Code, JS, Jest, Playwright.
+* ["Тестирование бронирования билетов в кинотеатр"](https://github.com/KseniyaChepelevich/7.5_puppeteer_ticket_booking): Visual Studio Code, JS, Jest, Puppeeter.
+* ["Тестирование бронирования билетов в кинотеатр"](https://github.com/KseniyaChepelevich/Cypress2_cinema):Visual Studio Code, JS, Cypress.
 
  
 * __Тестирование мобильных приложений ручное и автоматизированное. ["Тестирование мобильных приложений"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_the_mobile_app_testing_course.md).__
