@@ -89,7 +89,7 @@
 
 ## Автоматизация тестирования веб-интерфейсов с использованием Node.js, Jest, Playwright, Puppeeter,Cypress. 
 * ["Тестирование авторизаци и на сайте netology.ru"](https://github.com/KseniyaChepelevich/Test_Playwright): Visual Studio Code, JS, Jest, Playwright.
-* ["Тестирование бронирования билетов в кинотеатр"](https://github.com/KseniyaChepelevich/7.5_puppeteer_ticket_booking): Visual Studio Code, JS, Jest, Puppeeter.
+* ["Тестирование бронирования билетов в кинотеатр"](https://github.com/KseniyaChepelevich/7.5_puppeteer_ticket_booking): Visual Studio Code, JS, Jest, Puppeeter, Cucumber.
 * ["Тестирование бронирования билетов в кинотеатр"](https://github.com/KseniyaChepelevich/Cypress2_cinema):Visual Studio Code, JS, Cypress.
 
  
