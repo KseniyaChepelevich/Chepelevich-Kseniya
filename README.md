@@ -25,28 +25,29 @@
 * __Postman Collections__
 
 ## Языки программирования и инструменты:
-* __Jira__
-* __Postman__
-* __JMeter__
-* __Swagger__
-* __GitHub__
-* __MySQL__
-* __DevTools__
-* __Jenkins__
-* __Android Studio__
-* __Charles Proxy__
-* __Playwright__ 
-* __Puppeteer__
-* __Cypress__
-* __Selenium__
-* __Selenide__
-* __Cucumber__
-* __Docker__
-* __Espresso__
-* __Appium__
-* __UI Automator__
-* __Java__
-* __JavaScript__
+![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
+![JMeter](https://img.shields.io/badge/-JMeter-090909?style=for-the-badge&logo=apache&logoColor=f76935)
+![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=Swagger&logoColor=7ede2b)
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
+![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=00618a)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=00618a)
+![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=DevTools&logoColor=136be1)
+![Jenkins](https://img.shields.io/badge/-Jenkins-090909?style=for-the-badge&logo=Jenkins&logoColor=136be1)
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=AndroidStudio&logoColor=3ad07d)
+![Charles Proxy](https://img.shields.io/badge/-CharlesProxy-090909?style=for-the-badge&logo=CharlesProxy&logoColor=3ad07d)
+![Playwright](https://img.shields.io/badge/-Playwright-090909?style=for-the-badge&logo=Playwright)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-090909?style=for-the-badge&logo=Puppeteer&logoColor=3ad07d)
+![Cypress](https://img.shields.io/badge/-Cypress-090909?style=for-the-badge&logo=Cypress&logoColor=3ad07d)
+![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=7ede2b)
+![Selenide](https://img.shields.io/badge/-Selenide-090909?style=for-the-badge&logo=Selenide&logoColor=#883090)
+![Cucumber](https://img.shields.io/badge/-Cucumber-090909?style=for-the-badge&logo=Cucumber&logoColor=3ad07d)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=#003f8c)
+![Espresso](https://img.shields.io/badge/-Espresso-090909?style=for-the-badge&logo=Espresso)
+![Appium](https://img.shields.io/badge/-Appium-090909?style=for-the-badge&logo=Appium)
+![UI Automator](https://img.shields.io/badge/-UIAutomator-090909?style=for-the-badge&logo=UIAutomator)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
+![Java Script](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 
 
 # Ссылки на проекты 
