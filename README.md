@@ -61,11 +61,13 @@
 
 
 ## Тестирование мобильных приложений ручное и автоматизированное.
-* [Автоматизация тестирования мобильного приложения “Мобильный хоспис”](https://github.com/KseniyaChepelevich/diplom/tree/testing): Java 8, GitHub, Android Studio, adb, Charles, Espresso, Allure.
-* [Ручное тестирование мобильного приложения "Tap-Table" для бронирования столиков в ресторанах](https://github.com/KseniyaChepelevich/KseniyaChepelevich/tree/main/Projects/Manual_mobile_testing/Mobile_application_Tap_Table): Android Studio, adb, Android Emulator.
+* ["Автоматизация тестирования мобильного приложения "Мобильный хоспис"](https://github.com/KseniyaChepelevich/diplom/tree/testing): Java 8, GitHub, Android Studio, adb, Charles, Espresso, Allure.
+* ["Ручное тестирование мобильного приложения "Tap-Table" для бронирования столиков в ресторанах"](https://github.com/KseniyaChepelevich/KseniyaChepelevich/tree/main/Projects/Manual_mobile_testing/Mobile_application_Tap_Table): Android Studio, adb, Android Emulator.
 
-* __Автоматизация тестирования мобильных приложений (UIAutomator, Appium, Espresso). ["Автоматизация тестирования мобильных приложени"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_on_the_bloc_Automation_of_testing_of_mobile_applications.md)__
-
+## Автоматизация тестирования мобильных приложений (UIAutomator, Appium, Espresso).
+* ["UIAutomator. Автоматизация тестирования Android"](https://github.com/KseniyaChepelevich/2.2._UI_Automator.git),
+* ["Appium. Кроссплатформенная мобильная автоматизация тестирования"](https://github.com/KseniyaChepelevich/appium-tests.git),
+* ["Espresso. Автоматизация тестирования Android"](https://github.com/KseniyaChepelevich/2.5-espresso.git).
 
 ## Java
 * ["Перевод денег" (Money Transfer)](https://github.com/KseniyaChepelevich/Money-Transfer.git): Java11, IntelliJ IDEA, Git.
