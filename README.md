@@ -95,9 +95,8 @@
 
  
 ## Тестирование мобильных приложений ручное и автоматизированное. 
-* ["Тестирование мобильных приложений"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_the_mobile_app_testing_course.md).__
 * [Автоматизация тестирования мобильного приложения “Мобильный хоспис”](https://github.com/KseniyaChepelevich/diplom/tree/testing): Java 8, GitHub, Android Studio, adb, Charles, Espresso, Allure.
-* [Ручное тестирование мобильного приложения Tap-Table для бронирования столиков в ресторанах](): Android Studio, adb, Android Emulator.
+* [Ручное тестирование мобильного приложения Tap-Table для бронирования столиков в ресторанах](https://github.com/KseniyaChepelevich/KseniyaChepelevich/tree/main/Projects/Manual_mobile_testing/Mobile_application_Tap_Table): Android Studio, adb, Android Emulator.
  
 * __Автоматизация тестирования мобильных приложений (UIAutomator, Appium, Espresso). ["Автоматизация тестирования мобильных приложени"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_on_the_bloc_Automation_of_testing_of_mobile_applications.md)__ 
 
