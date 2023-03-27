@@ -82,29 +82,34 @@
 
 
  
-* __JavaScript. [JavaScript для тестировщиков](https://github.com/KseniyaChepelevich/bjs-2-homeworks.git).__
+## JavaScript. 
+* [JavaScript для тестировщиков](https://github.com/KseniyaChepelevich/bjs-2-homeworks.git).
 
-* __Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка.- [Тестирование веб-сервиса для покупки тура](https://github.com/KseniyaChepelevich/course_project.git): Java 8, GitHub, Android Studio, Charles, Espresso, Allure.
 
-
-## Автоматизация тестирования веб-интерфейсов с использованием Node.js, Jest, Playwright, Puppeeter,Cypress. 
+## Тестирование веб-сервисов.
+* ["Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка".- Тестирование веб-сервиса для покупки тура](https://github.com/KseniyaChepelevich/course_project.git): Java 8, GitHub, Android Studio, Charles, Espresso, Allure.
 * ["Тестирование авторизаци и на сайте netology.ru"](https://github.com/KseniyaChepelevich/Test_Playwright): Visual Studio Code, JS, Jest, Playwright.
+
 * ["Тестирование бронирования билетов в кинотеатр"](https://github.com/KseniyaChepelevich/7.5_puppeteer_ticket_booking): Visual Studio Code, JS, Jest, Puppeeter, Cucumber.
 * ["Тестирование бронирования билетов в кинотеатр"](https://github.com/KseniyaChepelevich/Cypress2_cinema):Visual Studio Code, JS, Cypress.
 
  
-* __Тестирование мобильных приложений ручное и автоматизированное. ["Тестирование мобильных приложений"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_the_mobile_app_testing_course.md).__
-
+## Тестирование мобильных приложений ручное и автоматизированное. 
+* ["Тестирование мобильных приложений"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_the_mobile_app_testing_course.md).__
+* [Автоматизация тестирования мобильного приложения “Мобильный хоспис”](https://github.com/KseniyaChepelevich/diplom/tree/testing): Java 8, GitHub, Android Studio, adb, Charles, Espresso, Allure.
+* [Ручное тестирование мобильного приложения Tap-Table для бронирования столиков в ресторанах](): Android Studio, adb, Android Emulator.
  
 * __Автоматизация тестирования мобильных приложений (UIAutomator, Appium, Espresso). ["Автоматизация тестирования мобильных приложени"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_on_the_bloc_Automation_of_testing_of_mobile_applications.md)__ 
 
   
-* __Тестирование производительности. ["Тестирование производительности"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_the_Performance_Testing_course.md).__ 
+## Тестирование производительности. 
+* ["Тестирование производительности"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_the_Performance_Testing_course.md). 
 
  
-* __Тестирование безопасности. ["Тестирование безопасности"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_Security_Testing.md).__ 
+## Тестирование безопасности. 
+* ["Тестирование безопасности"](https://github.com/KseniyaChepelevich/Chepelevich-Kseniya/blob/main/Homework_for_Security_Testing.md). 
 
-* __[Дипломный проект профессии «Инженер по тестированию»](https://github.com/KseniyaChepelevich/diplom/tree/testing).__
+
  
 
 
