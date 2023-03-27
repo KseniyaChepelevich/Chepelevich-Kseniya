@@ -55,16 +55,16 @@
 ## Тестирование веб-сервисов.
 * ["Ручное тестирование henderson.ru"](https://docs.google.com/spreadsheets/d/1HsmOOkTPuGNssnu1JD4DQ98-QDzl_JP6cHaYZ4TpPBw/edit#gid=0): тестирование требований, чек-лист, тестк-кейсы, тестирование верстки, тестирование API, DevTools.
 * ["Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка".- Тестирование веб-сервиса для покупки тура](https://github.com/KseniyaChepelevich/course_project.git): Java 8, GitHub, Android Studio, Charles, Espresso, Allure.
-* ["Тестирование авторизаци и на сайте netology.ru"](https://github.com/KseniyaChepelevich/Test_Playwright): Visual Studio Code, JS, Jest, Playwright.
-* ["Тестирование бронирования билетов в кинотеатр"](https://github.com/KseniyaChepelevich/7.5_puppeteer_ticket_booking): Visual Studio Code, JS, Jest, Puppeeter, Cucumber.
-* ["Тестирование бронирования билетов в кинотеатр"](https://github.com/KseniyaChepelevich/Cypress2_cinema):Visual Studio Code, JS, Cypress.
+* ["Автоматизация тестирования авторизаци и на сайте netology.ru"](https://github.com/KseniyaChepelevich/Test_Playwright): Visual Studio Code, JS, Jest, Playwright.
+* ["Автоматизация тестирования бронирования билетов в кинотеатр"](https://github.com/KseniyaChepelevich/7.5_puppeteer_ticket_booking): Visual Studio Code, JS, Jest, Puppeeter, Cucumber.
+* ["Автоматизация тестирования бронирования билетов в кинотеатр"](https://github.com/KseniyaChepelevich/Cypress2_cinema):Visual Studio Code, JS, Cypress.
 
 
 ## Тестирование мобильных приложений ручное и автоматизированное.
 * ["Автоматизация тестирования мобильного приложения "Мобильный хоспис"](https://github.com/KseniyaChepelevich/diplom/tree/testing): Java 8, GitHub, Android Studio, adb, Charles, Espresso, Allure.
 * ["Ручное тестирование мобильного приложения "Tap-Table" для бронирования столиков в ресторанах"](https://github.com/KseniyaChepelevich/KseniyaChepelevich/tree/main/Projects/Manual_mobile_testing/Mobile_application_Tap_Table): Android Studio, adb, Android Emulator.
 
-## Автоматизация тестирования мобильных приложений (UIAutomator, Appium, Espresso).
+### Автоматизация тестирования мобильных приложений (UIAutomator, Appium, Espresso).
 * ["UIAutomator. Автоматизация тестирования Android"](https://github.com/KseniyaChepelevich/2.2._UI_Automator.git),
 * ["Appium. Кроссплатформенная мобильная автоматизация тестирования"](https://github.com/KseniyaChepelevich/appium-tests.git),
 * ["Espresso. Автоматизация тестирования Android"](https://github.com/KseniyaChepelevich/2.5-espresso.git).
