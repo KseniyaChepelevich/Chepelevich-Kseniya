@@ -86,7 +86,7 @@
 * [JavaScript для тестировщиков](https://github.com/KseniyaChepelevich/bjs-2-homeworks.git).
 
 ## Тестирование веб-сервисов.
-* Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка.- [Тестирование веб-сервиса для покупки тура](https://github.com/KseniyaChepelevich/course_project.git): Java 8, GitHub, Android Studio, Charles, Espresso, Allure.
+* "Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка".- [Тестирование веб-сервиса для покупки тура](https://github.com/KseniyaChepelevich/course_project.git): Java 8, GitHub, Android Studio, Charles, Espresso, Allure.
 * ["Тестирование авторизаци и на сайте netology.ru"](https://github.com/KseniyaChepelevich/Test_Playwright): Visual Studio Code, JS, Jest, Playwright.
 * ["Тестирование бронирования билетов в кинотеатр"](https://github.com/KseniyaChepelevich/7.5_puppeteer_ticket_booking): Visual Studio Code, JS, Jest, Puppeeter, Cucumber.
 * ["Тестирование бронирования билетов в кинотеатр"](https://github.com/KseniyaChepelevich/Cypress2_cinema):Visual Studio Code, JS, Cypress.
